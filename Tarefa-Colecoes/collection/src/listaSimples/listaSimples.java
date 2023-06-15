@@ -8,7 +8,7 @@ import java.util.List;
 public class listaSimples {
 
     public static void main (String[] args){
-        System.out.println("**Lista ordenada**");
+        System.out.println("**lista Ordenada**");
         List<String> lista = new ArrayList<>();
         lista.add("Jonas");
         lista.add("Maria");
